@@ -7,5 +7,5 @@
 | ------------ | ------------- |
 | Content Cell | Content Cell  |
 | Content Cell | Content Cell  |
-
+| Content Cell | Content Cell  |               |
 <!-- TABLE_GENERATE_END -->
